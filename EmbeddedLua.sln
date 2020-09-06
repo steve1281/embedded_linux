@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EmbeddedLua", "EmbeddedLua.vcxproj", "{9B8D6BB2-A295-41D8-8957-6449C2A46FB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0BD38B65-640D-4C85-9619-B3D87112754B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B8D6BB2-A295-41D8-8957-6449C2A46FB5}.Debug|x64.ActiveCfg = Debug|x64
+		{9B8D6BB2-A295-41D8-8957-6449C2A46FB5}.Debug|x64.Build.0 = Debug|x64
+		{9B8D6BB2-A295-41D8-8957-6449C2A46FB5}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B8D6BB2-A295-41D8-8957-6449C2A46FB5}.Debug|x86.Build.0 = Debug|Win32
+		{9B8D6BB2-A295-41D8-8957-6449C2A46FB5}.Release|x64.ActiveCfg = Release|x64
+		{9B8D6BB2-A295-41D8-8957-6449C2A46FB5}.Release|x64.Build.0 = Release|x64
+		{9B8D6BB2-A295-41D8-8957-6449C2A46FB5}.Release|x86.ActiveCfg = Release|Win32
+		{9B8D6BB2-A295-41D8-8957-6449C2A46FB5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ABC2C58-98EE-4E6A-9BA8-2D4127E7598F}
+	EndGlobalSection
+EndGlobal
